@@ -1,0 +1,20 @@
+## Interface: 120100
+## Title: Old Gods Guild Audit
+## Notes: In-game guild standards checklist and officer actions.
+## Author: Old Gods
+## Version: 1.2.1.074
+## SavedVariables: OldGodsGuildAuditDB
+
+OldGodsUI.lua
+OldGodsAssets.lua
+OldGodsChapterImport.lua
+OldGodsCharacterImport.lua
+OldGodsCharacters.lua
+OldGodsRaffleImport.lua
+OldGodsRaffles.lua
+OldGodsChapterSettings.lua
+OldGodsFeedback.lua
+OldGodsRosterTools.lua
+OldGodsRecruiting.lua
+OldGodsCalendarCleanup.lua
+OldGodsGuildAudit.lua

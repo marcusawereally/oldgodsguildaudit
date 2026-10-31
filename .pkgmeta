@@ -1,0 +1,9 @@
+package-as: OldGodsGuildAudit
+ignore:
+  - .github
+  - forever
+  - README.md
+  - CONTRIBUTING.md
+  - validate-source.py
+move-folders:
+  OldGodsGuildAudit/OldGodsGuildAudit: OldGodsGuildAudit

@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Old Gods Guild Audit - WoW Forever
+## Notes: WoW Forever guild audit; beta compatibility requires in-game verification.
+## Author: Old Gods
+## Version: 1.2.1.074
+## SavedVariables: OldGodsGuildAuditDB
+## X-OldGods-GameVersion: forever
+
+OldGodsGameProfile.lua
+OldGodsUI.lua
+OldGodsAssets.lua
+OldGodsChapterImport.lua
+OldGodsCharacterImport.lua
+OldGodsCharacters.lua
+OldGodsRaffleImport.lua
+OldGodsRaffles.lua
+OldGodsChapterSettings.lua
+OldGodsFeedback.lua
+OldGodsRosterTools.lua
+OldGodsRecruiting.lua
+OldGodsCalendarCleanup.lua
+OldGodsGuildAudit.lua

@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible addon problem.
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Addon version
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Game client and build
+      description: Include Retail or Forever.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected behavior and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or debug output
+      description: Remove private guild data and credentials before attaching evidence.
